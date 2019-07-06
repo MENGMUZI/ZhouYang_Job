@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a897d889-dd1f-4e52-a8e5-d018ffa3cfa0" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestTransferValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Animal.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestPolymorphism.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="-424">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding>
                 <element signature="e#188#189#0" expanded="true" />
                 <element signature="e#224#225#0" expanded="true" />
@@ -69,6 +69,23 @@
                 <element signature="e#371#372#0" expanded="true" />
                 <element signature="e#442#443#0" expanded="true" />
                 <element signature="e#501#502#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestTransferValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,8 +109,10 @@
         <option value="$PROJECT_DIR$/src/Person.java" />
         <option value="$PROJECT_DIR$/src/TestEquals.java" />
         <option value="$PROJECT_DIR$/src/TestString.java" />
-        <option value="$PROJECT_DIR$/src/TestPolymorphism.java" />
         <option value="$PROJECT_DIR$/src/Animal.java" />
+        <option value="$PROJECT_DIR$/src/TestPolymorphism.java" />
+        <option value="$PROJECT_DIR$/src/TestTrannsferValue.java" />
+        <option value="$PROJECT_DIR$/src/TestTransferValue.java" />
       </list>
     </option>
   </component>
@@ -146,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562395548824" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562395913341" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -167,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestPolymorphism">
+  <component name="RunManager" selected="Application.TestTransferValue">
     <configuration name="TestEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestEquals" />
       <module name="ZhouYang_Job" />
@@ -184,6 +203,13 @@
     </configuration>
     <configuration name="TestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestString" />
+      <module name="ZhouYang_Job" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTransferValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestTransferValue" />
       <module name="ZhouYang_Job" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -276,6 +302,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestTransferValue" />
         <item itemvalue="Application.TestPolymorphism" />
         <item itemvalue="Application.TestString" />
         <item itemvalue="Application.TestEquals" />
@@ -292,7 +319,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562255414354</updated>
-      <workItem from="1562255415773" duration="13685000" />
+      <workItem from="1562255415773" duration="14314000" />
     </task>
     <task id="LOCAL-00001" summary="equals和==区别">
       <created>1562381132239</created>
@@ -305,7 +332,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13685000" />
+    <option name="totallyTimeSpent" value="14314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
@@ -316,17 +343,17 @@
       <window_info id="UI Designer" />
       <window_info id="Image Layers" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.329235" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.329235" />
+      <window_info anchor="bottom" id="Terminal" weight="0.21174863" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17076503" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17076503" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,10 +414,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/TestPolymorphism.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="-424">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding>
             <element signature="e#188#189#0" expanded="true" />
             <element signature="e#224#225#0" expanded="true" />
@@ -398,6 +425,21 @@
             <element signature="e#371#372#0" expanded="true" />
             <element signature="e#442#443#0" expanded="true" />
             <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestTransferValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
           </folding>
         </state>
       </provider>
