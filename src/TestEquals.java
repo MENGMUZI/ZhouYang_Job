@@ -9,6 +9,7 @@ import java.util.Set;
  * 1. == 既可以比较基本类型亦可以比较引用类型，对于基本类型就是比较值，对于引用类型就是比较内存地址
  * 2. Equals的话，它就属于java.lang.Object类里面的方法，如果该方法没有被重写过默认也是==；（String类的equals方法就是被重写过的）
  * 3. 具体要看有没有重写Object的hashCode方法和equals方法来判断
+ *  原则: "相等的对象必须具有相等的散列码"
  */
 public class TestEquals {
 
